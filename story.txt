@@ -1,1 +1,1 @@
-ook.edu/commcms/registrar/calendars/academic_calendars.php
+stonybrook.edu/commcms/registrar/calendars/academic_calendars.php
